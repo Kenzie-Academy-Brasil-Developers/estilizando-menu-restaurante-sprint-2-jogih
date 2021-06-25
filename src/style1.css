@@ -4,7 +4,7 @@
 body {
     font-family: 'Lato';
     font-size: 18px;
-    background-image: url('/home/thales/KA exercicios/sprint2/37atividade/estilizando-menu-restaurante-sprint-2-jogih/src/img/map-bg.jpg') ;
+    background-image: url("img/map-bg.jpg") ;
 }
 nav {font-family: '' sans-serif; font-size: 10px;}
 
