@@ -21,7 +21,7 @@ section {margin-bottom: 50px;}
 
 /* Show each of the section headings of the menu (e.g. "Starters") in small caps, colored #6d4c41. */
 h2 {margin: 0;
-    text-transform: lowercase;    
+    font-variant: small-caps;   
     color: #6d4c41;
 }
 
